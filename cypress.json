@@ -1,0 +1,10 @@
+{
+ "defaultCommandTimeout": 8000,
+  "reporter": "mochawesome",
+  "env": {
+    "url": "https://id.heroku.com/login"
+  }
+  
+}
+ 
+
